@@ -10,6 +10,10 @@
       "url": "/about"
     },
     {
+      "text": "Get in touch",
+      "url": "/contact"
+    },
+    {
       "text": "Twitter",
       "url": "https://twitter.com/embell_",
       "external": true
