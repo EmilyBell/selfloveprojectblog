@@ -10,6 +10,10 @@
       "url": "/about"
     },
     {
+      "text": "Blog",
+      "url": "/archive"
+    },
+    {
       "text": "Get in touch",
       "url": "/contact"
     },
