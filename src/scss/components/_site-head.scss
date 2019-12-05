@@ -3,5 +3,8 @@
     font-weight: 700;
     text-decoration: none;
     color: var(--color-text);
+    max-width: 10rem;
+    text-transform: uppercase;
+    filter: grayscale(1) contrast(0.8);
   }
 }
