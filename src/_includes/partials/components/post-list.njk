@@ -12,6 +12,9 @@
               <p class="text-500 gap-top-300 weight-mid">
                 <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time>
               </p>
+              {% if item.data.summary %}
+                <p class="gap-top-300">{{ item.data.summary }} - <a href="{{ item.url }}">Read more</a></p>
+              {% endif %}
             </li>
           {% endif %}
         {% endfor %}

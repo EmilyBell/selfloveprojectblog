@@ -14,4 +14,8 @@
       text-decoration: underline;
     }
   }
+
+  a:not([class]) {
+    color: currentColor;
+  }
 }

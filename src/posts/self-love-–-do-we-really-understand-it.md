@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Self Love – Do we really understand it?
 socialImage: /images/shutterstock-1013134483.jpg
 date: 2019-11-24T20:21:43.771Z
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui.
 tags:
   - blog
 ---
